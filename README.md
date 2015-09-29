@@ -19,12 +19,19 @@ Added CDN from http://getbootstrap.com/getting-started/#download
 
 
 Main
+
 Services / Mission - as is
+
 Products
+
 Craftsmanship - to view the process of making the product
+
 About - the man behind RGB LeatherCrafts
+
 -connect with us
-    fb/linkdIN/pinterest
+
+->>>>> fb/linkdIN/pinterest
+
 Contact
 
 Connect with Us
