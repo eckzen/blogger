@@ -17,4 +17,15 @@ Added CDN from http://getbootstrap.com/getting-started/#download
 
     Then bootstrap javascript and place it below the jquery CDN
 
-    
+
+Main
+Services / Mission
+Products
+About
+Contact
+
+Connect with Us
+
+Use placehold.it for images that i dont have yet
+
+    <img src="http://placehold.it/350x150">
