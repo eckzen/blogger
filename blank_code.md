@@ -23,7 +23,9 @@
   </b:skin>
  </head>
  <body>
-  <b:section class='main' id='main' showaddelement='yes'/>
+ <b:section class='main' id='main' showaddelement='yes'>
+  <b:widget id='Blog1' locked='true' title='Blog Posts' type='Blog'/>
+</b:section>
   
  </body>
 </html>
