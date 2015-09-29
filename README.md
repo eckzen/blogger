@@ -9,4 +9,8 @@ Additional Code adding
 + Add HTML codes (widgets, code) inside `<body>`.
 + You can do all the stuff in this template just like you do it a HTML page.
 
+Added CDN from http://getbootstrap.com/getting-started/#download
+
+Copied bootstrap css and placed it above my css to overwrite it
+
 
