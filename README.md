@@ -11,6 +11,10 @@ Additional Code adding
 
 Added CDN from http://getbootstrap.com/getting-started/#download
 
-Copied bootstrap css and placed it above my css to overwrite it
+    Copied bootstrap css and placed it above my css to overwrite it
+    
+    Copied jquery cdn from the same page basic template
 
+    Then bootstrap javascript and place it below the jquery CDN
 
+    
