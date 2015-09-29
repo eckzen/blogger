@@ -19,9 +19,12 @@ Added CDN from http://getbootstrap.com/getting-started/#download
 
 
 Main
-Services / Mission
+Services / Mission - as is
 Products
-About
+Craftsmanship - to view the process of making the product
+About - the man behind RGB LeatherCrafts
+-connect with us
+    fb/linkdIN/pinterest
 Contact
 
 Connect with Us
@@ -29,3 +32,6 @@ Connect with Us
 Use placehold.it for images that i dont have yet
 
     <img src="http://placehold.it/350x150">
+
+
+
