@@ -52,6 +52,26 @@ header .navbar-default .navbar-nav .active a:hover{
 	color: #e15d5f;
 	text-shadow: none;  
 }
+/** Navbar Brand **/
+header .navbar-brand{
+	background: url(../images/100x100.jpg);
+	background-repeat: no-repeat;
+	background-position: 15px 0;
+	height: auto;  
+}
+header .navbar-brand h1{
+	color: white;
+	margin: 0;
+	font-size:  1.8em;
+	font-weight: 400;
+	padding-left: 105px;   
+}
+header .navbar-brand span.subhead{
+	font-family: "Roboto Slab", serif;
+	font-size: .6em;
+	font-weight: 100;
+	display: block;
+}
 /** Footer Navigation**/
 
 footer .navbar-default {
