@@ -139,6 +139,38 @@ and (max-width: 768px) {
 	margin-bottom: 10px; 
 }
 
+@media only screen
+and (min-width: 450px)
+and (min-width: 768px){
+	.products p{
+		padding: 0 20%; 
+	}
+}
+
+/** Page Crafts**/
+
+#crafts{
+	background-color: #e4d29d;
+	background-image: linear-gradient(to bottom, #e4d29d, #cdae50);  
+}
+
+.crafts{
+	margin: 10px 0;
+}
+
+.crafts h3{
+	font-weight: 600;
+	font-size: 1.2em;
+	color: #6f4e36;
+	padding-bottom: 5px;    
+}
+
+.crafts p{
+	font-size: .8em ;
+}
+.crafts img{
+	width: 100% 
+}
 
 /** Footer Navigation**/
 
