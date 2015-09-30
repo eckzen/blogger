@@ -44,9 +44,13 @@ Image size carousel
 
     1024x700 px - common
     on the example 
-        3000 x 1999 px
+        3000 x 1999 px      #image size vshould be like this
 
 Google fonts
+
+   + select the fonts
+   + then click use
+   + choose @import
     
-    open sans
-    roboto slab
+    open sans 
+    roboto slab 
