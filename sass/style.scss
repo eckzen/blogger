@@ -17,29 +17,37 @@ body{
 	font-size: 2em;
 	position: relative; 
 }
+
 h1, h2, h3, h4, h5, h6{
 	font-family: "Open Sans", sans-serif;
 	font-weight: 100;
 	margin: 0;  
 }
+
 img{
 	max-width: 200px;
 }
+
 /** Header Navigation**/
+
 header .navbar{
 	padding: 30px 0; 
 	border: none; 
 }
+
 header .navbar-default{
 	background-color: transparent;
-}	
+}
+
 header .navbar-default .navbar-nav a{
 	color: white;
 	padding: 5px 8px;  
 }
+
 header .navbar-default .navbar-nav a:hover{
 	color: #eec856; 
 }
+
 header .navbar-default .navbar-nav .active a{
 	font-weight: 700;
 	color: #eec856;
@@ -47,18 +55,22 @@ header .navbar-default .navbar-nav .active a{
 	border-bottom: 4px solid #eec856; 
 	text-shadow: none; 
 }
+
 header .navbar-default .navbar-nav .active a:hover{
 	background: transparent;  
 	color: #e15d5f;
 	text-shadow: none;  
 }
+
 /** Navbar Brand **/
+
 header .navbar-brand{
 	background: url(../images/100x100.jpg);
 	background-repeat: no-repeat;
 	background-position: 15px 0;
 	height: auto;  
 }
+
 header .navbar-brand h1{
 	color: white;
 	margin: 0;
@@ -66,19 +78,23 @@ header .navbar-brand h1{
 	font-weight: 400;
 	padding-left: 105px;   
 }
+
 header .navbar-brand span.subhead{
 	font-family: "Roboto Slab", serif;
 	font-size: .6em;
 	font-weight: 100;
 	display: block;
 }
+
 /** Navbar Toggle **/
 header .navbar-toggle {
 	background-color: #279182;
 }
+
 header .navbar-default .navbar-toggle .icon-bar{
 	background-color: white;
 }
+
 @media only screen
 and (max-width: 768px) {
 	header .navbar-collapse.in{
@@ -86,11 +102,8 @@ and (max-width: 768px) {
 	}
 }
 
-/** Footer Navigation**/
+/** Page **/
 
-footer .navbar-default {
-	background: transparent; 
-}
 .page {
 	padding: 50px, 0; 
 }
@@ -98,5 +111,21 @@ footer .navbar-default {
 .page h2{
 	text-align: center;
 	margin: 30px; 
+}
+
+/** Page Mission **/
+
+#mission{
+	background-color: #e4d29d;
+	background-image: linear-gradient(to bottom, #eef084, #819a2d);
+	border-top: 20px solid rgba(238, 200, 86, .5);  
 	
+}
+
+
+
+/** Footer Navigation**/
+
+footer .navbar-default {
+	background: transparent; 
 }
