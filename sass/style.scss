@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800|Roboto+Slab:400,100,300,700);
 // @import "variables";
-@import "normalize";
+// @import "normalize";
 // @import "mixins";
 // @import "base";
 // @import "interface";
@@ -11,7 +11,7 @@
 // @import "modules/navigation";
 
 body{
-	padding-top: 50px;
+	// padding-top: 50px;
 	font-family: "Roboto Slab", sans-serif;
 	font-weight: 300; 
 	font-size: 2em;
@@ -25,11 +25,18 @@ h1, h2, h3, h4, h5, h6{
 img{
 	max-width: 200px;
 }
-.navbar {
-	-webkit-border-radius: 0; 
-	border-radius: 0; 
-	border: 0px; 
+/** Header Navigation**/
+header .navbar{
+	padding: 30px 0; 
+	border: none; 
+	 
 }
+header .navbar-default{
+	background-color: transparent;
+}	
+
+/** Footer Navigation**/
+
 footer .navbar-default {
 	background: transparent; 
 }
