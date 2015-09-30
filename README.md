@@ -54,3 +54,17 @@ Google fonts
     
     open sans 
     roboto slab 
+
+http://css3please.com
+
+http://leaverou.github.io/prefixfree
+    
+    prefix library
+how to use
+
+    download
+    put it inside the js folder of your sit
+    call it 
+    put it below after all the css
+
+
