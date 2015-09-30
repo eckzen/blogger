@@ -40,5 +40,13 @@ Use placehold.it for images that i dont have yet
 
     <img src="http://placehold.it/350x150">
 
+Image size carousel
 
+    1024x700 px - common
+    on the example 
+        3000 x 1999 px
 
+Google fonts
+    
+    open sans
+    roboto slab
