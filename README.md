@@ -55,7 +55,7 @@ Google fonts
     open sans 
     roboto slab 
 
-http://css3please.com
+http://css3please.com  <---- has css3 prefix
 
 http://leaverou.github.io/prefixfree
     
@@ -67,4 +67,8 @@ how to use
     call it 
     put it below after all the css
 
+`<div class="photo col-md-2 col-md-offset-2 col-lg-4 col-lg-offset-0">`
 
+video 21 5:30
+
+`git checkout -b <branch name>`
